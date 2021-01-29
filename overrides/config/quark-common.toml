@@ -48,18 +48,18 @@
 
 [automation]
 	"Chain Linkage" = true
-	"Chains Connect Blocks" = true
-	Chute = true
-	"Color Slime" = true
-	"Dispensers Place Blocks" = true
+	"Chains Connect Blocks" = false
+	Chute = false
+	"Color Slime" = false
+	"Dispensers Place Blocks" = false
 	"Ender Watcher" = true
 	"Endermites Form Shulkers" = true
 	"Feeding Trough" = true
-	Gravisand = true
-	"Iron Rod" = true
+	Gravisand = false
+	"Iron Rod" = false
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
+	"Pistons Move Tile Entities" = false
 	"Redstone Circuit" = true
 	"Weather Sensor" = true
 
@@ -105,42 +105,42 @@
 		"Enable Inductor" = true
 
 [building]
-	"Bamboo Mat" = true
+	"Bamboo Mat" = false
 	"Burn Vines" = true
-	"Cobblestone Bricks" = true
-	"Compressed Blocks" = true
+	"Cobblestone Bricks" = false
+	"Compressed Blocks" = false
 	"Duskbound Blocks" = true
-	"Framed Glass" = true
+	"Framed Glass" = false
 	"Gold Bars" = true
-	Grate = true
-	"Iron Plates" = true
+	Grate = false
+	"Iron Plates" = false
 	"Item Frames" = true
 	"Leaf Carpet" = true
-	"Lit Lamp" = true
+	"Lit Lamp" = false
 	Midori = true
-	"More Brick Types" = true
+	"More Brick Types" = false
 	"More Potted Plants" = true
 	"More Stone Variants" = true
-	"Nether Brick Fence Gate" = true
+	"Nether Brick Fence Gate" = false
 	"Paper Decor" = true
-	"Quilted Wool" = true
-	Rope = true
+	"Quilted Wool" = false
+	Rope = false
 	"Shallow Dirt" = true
-	Shingles = true
-	"Soul Sandstone" = true
-	"Stained Planks" = true
+	Shingles = false
+	"Soul Sandstone" = false
+	"Stained Planks" = false
 	Stools = true
-	"Sturdy Stone" = true
+	"Sturdy Stone" = false
 	"Tallow And Candles" = true
-	Thatch = true
+	Thatch = false
 	"Tie Leads To Fences" = true
 	Turf = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
-	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
-	"Wooden Posts" = true
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
+	"Variant Ladders" = false
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
+	"Wooden Posts" = false
 
 	[building.compressed_blocks]
 		"Charcoal Block and Blaze Lantern Stay On Fire Forever" = true
@@ -256,11 +256,11 @@
 	"Bottled Cloud" = true
 	Camera = true
 	"Color Runes" = true
-	"Pathfinder Maps" = true
-	Pickarang = true
+	"Pathfinder Maps" = false
+	Pickarang = false
 	"Seed Pouch" = true
 	"Slime In A Bucket" = true
-	Trowel = true
+	Trowel = false
 
 	[tools.ancient_tomes]
 		#
@@ -360,9 +360,9 @@
 		"Trowel Max Durability" = 255
 
 [tweaks]
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Axe Leaf Harvesting" = true
 	"Campfires Boost Elytra" = true
 	"Compasses Work Everywhere" = true
@@ -374,16 +374,16 @@
 	"Glass Shard" = true
 	"Hoe Harvesting" = true
 	"Improved Sleeping" = true
-	"Infinity Bucket" = true
+	"Infinity Bucket" = false
 	"Lock Rotation" = true
 	"Note Block Mob Sounds" = true
 	"Pat The Dogs" = true
 	"Poison Potato Usage" = true
-	"Reacharound Placing" = true
-	"Replace Scaffolding" = true
+	"Reacharound Placing" = false
+	"Replace Scaffolding" = false
 	"Sign Editing" = true
 	"Simple Harvest" = true
-	"Snow Golem Player Heads" = true
+	"Snow Golem Player Heads" = false
 	"Springy Slime" = true
 	"Utility Recipes" = true
 	"Villagers Follow Emeralds" = true
@@ -436,7 +436,7 @@
 		"Afk Time" = 2400
 		#
 		#Allowed values: (0,1]
-		"Percent Req" = 1.0
+		"Percent Req" = 0.0
 
 	[tweaks.infinity_bucket]
 		Cost = 10
@@ -534,8 +534,8 @@
 	"Mega Caves" = true
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
-	"Realistic World Gen" = true
+	"New Stone Types" = false
+	"Realistic World Gen" = false
 	Speleothems = true
 	"Spiral Spires" = true
 	"Underground Clay" = true
@@ -1121,7 +1121,7 @@
 		#
 		#The chance for the monster box generator to try and place one in a chunk, 1 is 100%
 		#This can be higher than 100% if you want multiple per chunk, , 0 is 0%
-		"Chance Per Chunk" = 0.8
+		"Chance Per Chunk" = 0.1
 		"Min Y" = 5
 		"Max Y" = 30
 		"Min Mob Count" = 5
@@ -1930,9 +1930,9 @@
 
 [oddities]
 	Backpack = true
-	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
 	"Totem Of Holding" = true
 
 	[oddities.backpack]
