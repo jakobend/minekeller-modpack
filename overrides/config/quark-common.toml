@@ -1867,7 +1867,7 @@
 	"Auto Walk Keybind" = true
 	"Back Button Keybind" = true
 	"Chest Searching" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Mount Hud" = true
 	"Improved Tooltips" = true
 	"Usage Ticker" = true
