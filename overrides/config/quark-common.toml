@@ -47,7 +47,7 @@
 	Experimental = true
 
 [automation]
-	"Chain Linkage" = true
+	"Chain Linkage" = false
 	"Chains Connect Blocks" = false
 	Chute = false
 	"Color Slime" = false
