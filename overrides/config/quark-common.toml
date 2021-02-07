@@ -105,31 +105,31 @@
 		"Enable Inductor" = true
 
 [building]
-	"Bamboo Mat" = false
+	"Bamboo Mat" = true
 	"Burn Vines" = true
-	"Cobblestone Bricks" = false
-	"Compressed Blocks" = false
+	"Cobblestone Bricks" = true
+	"Compressed Blocks" = true
 	"Duskbound Blocks" = true
 	"Framed Glass" = false
 	"Gold Bars" = true
 	Grate = false
-	"Iron Plates" = false
+	"Iron Plates" = true
 	"Item Frames" = true
 	"Leaf Carpet" = true
-	"Lit Lamp" = false
-	Midori = true
-	"More Brick Types" = false
+	"Lit Lamp" = true
+	Midori = false
+	"More Brick Types" = true
 	"More Potted Plants" = true
 	"More Stone Variants" = true
 	"Nether Brick Fence Gate" = false
 	"Paper Decor" = true
-	"Quilted Wool" = false
+	"Quilted Wool" = true
 	Rope = false
 	"Shallow Dirt" = true
-	Shingles = false
-	"Soul Sandstone" = false
+	Shingles = true
+	"Soul Sandstone" = true
 	"Stained Planks" = false
-	Stools = true
+	Stools = false
 	"Sturdy Stone" = false
 	"Tallow And Candles" = true
 	Thatch = false
@@ -140,7 +140,7 @@
 	"Variant Ladders" = false
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
-	"Wooden Posts" = false
+	"Wooden Posts" = true
 
 	[building.compressed_blocks]
 		"Charcoal Block and Blaze Lantern Stay On Fire Forever" = true
