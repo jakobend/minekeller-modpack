@@ -5,7 +5,7 @@
 	"Use Anti Overlap" = true
 	#
 	#Quark replaces the Piston logic to allow for its piston features to work. If you're having troubles, try turning this off.
-	"Use Piston Logic Replacement" = true
+	"Use Piston Logic Replacement" = false
 	#
 	#Allowed values: (0,)
 	"Piston Push Limit" = 12
@@ -436,7 +436,7 @@
 		"Afk Time" = 2400
 		#
 		#Allowed values: (0,1]
-		"Percent Req" = 0.0
+		"Percent Req" = 0.01
 
 	[tweaks.infinity_bucket]
 		Cost = 10
