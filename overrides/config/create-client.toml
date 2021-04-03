@@ -3,6 +3,13 @@
 #Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
 [client]
 	#
+	#What indicator should be used when showing where the assisted placement ends up relative to your crosshair
+	#Allowed Values: TEXTURE, TRIANGLE, NONE
+	placementIndicator = "TEXTURE"
+	#
+	#Use an alternative indicator when showing where the assisted placement ends up relative to your crosshair
+	smoothPlacementIndicator = false
+	#No comment
 	#Range: 0.0 ~ 1.0
 	fanParticleDensity = 0.5
 	#
@@ -17,6 +24,12 @@
 	#Log a stack-trace when rendering issues happen within a moving contraption.
 	explainRenderErrors = false
 	#
+	#Use modern OpenGL features to drastically increase performance.
+	experimentalRendering = true
+	#
+	#Setting this to true will prevent Create from sending you a warning when playing with Fabulous graphics enabled
+	ignoreFabulousWarning = false
+	#
 	#Show colourful debug information while the F3-Menu is open.
 	enableRainbowDebug = true
 	#
@@ -25,4 +38,11 @@
 	#
 	#Display a tooltip when looking at overstressed components.
 	enableOverstressedTooltip = true
+
+	#
+	#Ponder settings
+	[client.ponder]
+		#
+		#Slow down a ponder scene whenever there is text on screen.
+		comfyReading = false
 
