@@ -3,7 +3,7 @@
     "version": "1.16.5",
     "modLoaders": [
       {
-        "id": "forge-36.0.10",
+        "id": "forge-36.1.0",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minekeller Modpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "jakobend",
   "files": [
     {
@@ -22,24 +22,24 @@
       "required": true
     },
     {
-      "__name": "YUNGs API (Forge) r3",
+      "__name": "YUNGs API (Forge) r4",
       "__url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
       "projectID": 421850,
-      "fileID": 3171935,
+      "fileID": 3186128,
       "required": true
     },
     {
-      "__name": "Just Enough Items (JEI) v7.6.1.65",
+      "__name": "Just Enough Items (JEI) v7.6.1.75",
       "__url": "https://www.curseforge.com/minecraft/mc-mods/jei",
       "projectID": 238222,
-      "fileID": 3157864,
+      "fileID": 3245079,
       "required": true
     },
     {
-      "__name": "Aquaculture v2.1.12",
+      "__name": "Aquaculture v2.1.16",
       "__url": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
       "projectID": 60028,
-      "fileID": 3163707,
+      "fileID": 3216633,
       "required": true
     },
     {
@@ -50,38 +50,38 @@
       "required": true
     },
     {
-      "__name": "YUNGs Better Mineshafts (Forge) v2.0.1",
+      "__name": "YUNGs Better Mineshafts (Forge) v2.0.3",
       "__url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
       "projectID": 389665,
-      "fileID": 3175671,
+      "fileID": 3245380,
       "required": true
     },
     {
-      "__name": "Biomes O Plenty v13.0.0.431",
+      "__name": "Biomes O Plenty v13.0.0.432",
       "__url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
       "projectID": 220318,
-      "fileID": 3181401,
+      "fileID": 3236010,
       "required": true
-    },
+	},
 	{
-	  "__name": "Serene Seasons v4.0.1.89",
+	  "__name": "Serene Seasons v4.0.1.91",
 	  "__url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
 	  "projectID": 291874,
-	  "fileID": 3179424,
+	  "fileID": 3202233,
 	  "required": true
 	},
 	{
-	  "__name": "Create v0.3e",
+	  "__name": "Create v0.3.1",
 	  "__url": "https://www.curseforge.com/minecraft/mc-mods/create",
 	  "projectID": 328085,
-	  "fileID": 3167531,
+	  "fileID": 3260165,
 	  "required": true
 	},
 	{
-	  "__name": "Quark r2.4-300",
+	  "__name": "Quark r2.4-309",
 	  "__url": "https://www.curseforge.com/minecraft/mc-mods/quark",
 	  "projectID": 243121,
-	  "fileID": 3185644,
+	  "fileID": 3254368,
 	  "required": true
 	},
 	{
